@@ -1,7 +1,7 @@
 {
   "name": "linter-analist",
   "main": "./lib/main",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Lint Ruby on the fly, using Analist",
   "repository": "https://github.com/tcoenraad/linter-analist",
   "license": "MIT",
